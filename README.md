@@ -8,7 +8,8 @@
 
 
 ## 服务端
-[源码点此](https://github.com/lilindog/payment-machine-srv)   
+[源码点此](https://github.com/lilindog/payment-machine-srv)  
+[-> api文档点此](http://payment-machine-api.lilin.site/doc/)   
 服务端使用nodejs、mysql、koa; 没什么好说的。  
 支付接口接入支付宝的接口。   
 
