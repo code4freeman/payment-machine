@@ -1,7 +1,7 @@
 # 前端技术栈实现硬件收银机
 *造这台机器想法很久了，从想法萌生、机箱设计图到硬件选型再到软件实现以及验证，前前后后零零碎碎花了不少时间；真正写代码的时间用了10来天。*
 
-## 样品展示
+## 展示
 [演示视频点此](https://www.bilibili.com/video/BV1AB4y1K7cW/)   
 图片：  
 ![图片若看不见请翻墙](./img/1.png)
@@ -9,7 +9,8 @@
 
 ## 服务端
 [源码点此](https://github.com/lilindog/payment-machine-srv)   
-服务端使用nodejs、mysql、koa; 没什么好说的。
+服务端使用nodejs、mysql、koa; 没什么好说的。  
+支付接口接入支付宝的接口。   
 
 ## 设备端
 [源码点此](https://github.com/lilindog/payment-machine-device)   
