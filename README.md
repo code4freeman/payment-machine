@@ -6,13 +6,6 @@
 图片：  
 ![图片若看不见请翻墙](./img/1.png)
 
-
-## 服务端
-[源码点此](https://github.com/lilindog/payment-machine-srv)  
-[-> api文档点此](http://payment-machine-api.lilin.site/doc/)   
-服务端使用nodejs、mysql、koa; 没什么好说的。  
-支付接口接入支付宝的接口。   
-
 ## 设备端
 [源码点此](https://github.com/lilindog/payment-machine-device)   
 
@@ -24,7 +17,15 @@
 
 软件部分：   
 采用nwjs（开发阶段）、electron(实际运行)。   
-ui编写采用React、antd-mobile。   
+ui编写采用React、antd-mobile。  
+wifi操作和提示音播放使用自己[封装的库](https://github.com/lilindog/raspi-helper)。 
+
+## 服务端
+[源码点此](https://github.com/lilindog/payment-machine-srv)  
+[-> api文档点此](http://payment-machine-api.lilin.site/doc/)   
+服务端使用nodejs、mysql、koa; 没什么好说的。  
+支付接口接入支付宝的接口。   
+ 
 ## 管理后台
 [源码点此](https://github.com/lilindog/payment-machine-admin)   
 使用vue2、elemtn-ui开发，没什么好讲的。
