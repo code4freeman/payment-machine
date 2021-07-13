@@ -23,7 +23,7 @@
 
 软件部分：   
 采用nwjs（开发阶段）、electron(实际运行)。   
-ui编写采用Ract、antd-mobile。   
+ui编写采用React、antd-mobile。   
 ## 管理后台
 [源码点此](https://github.com/lilindog/payment-machine-admin)   
 使用vue2、elemtn-ui开发，没什么好讲的。
