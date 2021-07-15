@@ -11,8 +11,8 @@
 
 硬件部分：   
 核心部分为树莓派4b一块，操作系统使用官方linux发行版，基于Debian。   
-二维码扫描器品牌为微光互联，根据厂家文档协议写nodejs[驱动](https://github.com/lilindog/vguang-scanner)。      
-打印机来自广州优库，根据厂家文档协议写nodejs[驱动](https://github.com/lilindog/escpos-printer)。   
+二维码扫描器品牌为[微光互联](http://vguang.vip/)，根据厂家文档协议写nodejs[驱动](https://github.com/lilindog/vguang-scanner)。      
+打印机来自[广州优库](http://www.chinayoko.com/index.php?m=Product&a=show&id=251)，根据厂家文档协议写nodejs[驱动](https://github.com/lilindog/escpos-printer)。   
 屏幕品牌不详，支持多点触摸电容屏ips面板，1024x600分辨率。   
 
 软件部分：   
