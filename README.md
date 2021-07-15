@@ -7,7 +7,7 @@
 ![图片若看不见请翻墙](./img/1.png)
 
 ## 设备端
-[源码点此](https://github.com/lilindog/payment-machine-device)   
+[源码点此](https://github.com/lilindog/payment-machine-device_public)   
 
 硬件部分：   
 核心部分为树莓派4b一块，操作系统使用官方linux发行版，基于Debian。   
@@ -21,11 +21,11 @@ ui编写采用React、antd-mobile。
 wifi操作和提示音播放使用自己[封装的库](https://github.com/lilindog/raspi-helper)。 
 
 ## 服务端
-[源码点此](https://github.com/lilindog/payment-machine-srv)  
-[-> api文档点此](http://payment-machine-api.lilin.site/doc/)   
+[源码点此](https://github.com/lilindog/payment-machine-srv_public)  
+[在线API文档点此](http://payment-machine-api.lilin.site/doc/)   
 服务端使用nodejs、mysql、koa; 没什么好说的。  
 支付接口接入支付宝的接口。   
  
 ## 管理后台
-[源码点此](https://github.com/lilindog/payment-machine-admin)   
+[源码点此](https://github.com/lilindog/payment-machine-admin_public)   
 使用vue2、elemtn-ui开发，没什么好讲的。
